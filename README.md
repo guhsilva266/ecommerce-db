@@ -401,6 +401,3 @@ Este projeto está disponível para fins educacionais e de portfólio.
 - [Entity-Relationship Model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 
 ---
-
-**Atualizado em:** Abril de 2026  
-**Versão:** 1.0
